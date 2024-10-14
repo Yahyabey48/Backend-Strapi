@@ -1,0 +1,27 @@
+.car-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 250px; /* Ajuster la largeur selon vos besoins */
+  background-color: #fff; /* Fond blanc pour les cartes de voiture */
+}
+
+.car-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px; /* Coins arrondis pour l'image */
+}
+
+.car-name {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.car-price {
+  font-size: 1.2em;
+  color: green;
+}
